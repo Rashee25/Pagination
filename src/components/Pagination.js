@@ -1,5 +1,6 @@
 import React from "react";
 import Table from "./Table";
+import Pagination from "react-dom";
 
 const Pagination = ({ data }) => {
   return (
